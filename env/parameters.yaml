@@ -1,0 +1,10 @@
+adminUser:
+  password: local:bootboot/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: rajat.tyagi.us@gmail.com
+  token: local:bootboot/pipelineUser:token
+  username: rajattyagius
+prow:
+  hmacToken: local:bootboot/prow:hmacToken
